@@ -29,7 +29,7 @@ Run the test program to see all features in action.
 your_project/
 │
 ├── pymatrix.py # Matrix class module
-├── test_pymatrix.py # Test script for pymatrix
+├── test.py # Test script for pymatrix
 └── README.md # This file
 
 ### ▶️ How to Run
@@ -37,4 +37,4 @@ your_project/
 Make sure you have Python installed, then run:
 
 ```bash
-python test_pymatrix.py
+python test.py
